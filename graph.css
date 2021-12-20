@@ -1,0 +1,8 @@
+.bodyg {  
+    padding: 16px;
+  }
+.chart-container {
+    position: relative;
+    max-width: 800px;
+    margin: auto;
+  }

@@ -1,0 +1,17 @@
+.mg{
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+  }
+
+  .head {
+    font-family: monospace;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 2.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .shead {
+    font-size: 20px;
+    font-weight: 500;
+  }

@@ -1,0 +1,75 @@
+/*body {
+    background-color: #F2F2F3;
+}*/
+div.round1 {
+    /*border: hidden;*/
+    border: 2px solid;
+    border-radius: 20px;
+  }
+
+  .responsive {
+    width: 80%;
+    height: auto;
+  }
+
+  img.boxbody {
+    border-radius: 20px;
+  }
+
+  img.imgboxhead {
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+  }
+  
+  .headWelcome {
+    font-family: monospace;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 2.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .secHead {
+    font-family: monospace;
+    font-size: 26px;
+    font-weight: bold;
+    margin-top: 2.5rem;
+    margin-bottom: 0.5rem;
+
+  }
+
+  img.icon{
+    width: 50%;
+    height: auto;
+  }
+
+.headicon{    
+    font-family: monospace;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}
+.btnicon{
+    margin-top: 1rem;
+}
+.totalicon{
+    margin-top:1.7rem;
+    margin-bottom: 3rem;
+}
+img.imgjoinus {
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+  }
+  
+.boxprice{
+    border: 2px solid;
+    background-color: #F2F2F3;
+    border-radius: 15px;
+}
+.link{
+  text-decoration:none;  
+  color:rgb(51, 69, 99);  
+}
